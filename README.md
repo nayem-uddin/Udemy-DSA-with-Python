@@ -11,7 +11,7 @@
   2. Non-primitive: user-defined data structures
      (a) Linear: data are arranged in memory in a linear, sequential manner
          i. Static: structure-related memory location is fixed at compile time (e.g., array)
-         ii. Dynamic: associated memory location changes (e.g., linked list, stack, queue)
+         ii. Dynamic: associated memory location changes (e.g., linked list, stack, queue) 
      (b) Non-linear
 
 # **Algorithms**
