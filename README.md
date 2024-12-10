@@ -9,15 +9,22 @@
 - Types of data structures:
   1. Primitive: built-in data structures in a language (e.g., int, float, bool, string, character)
   2. Non-primitive: user-defined data structures <br>
-     (a) Linear: data are arranged in memory in a linear, sequential manner <br>
-         i. Static: structure-related memory location is fixed at compile time (e.g., array) <br>
-         ii. Dynamic: associated memory location changes (e.g., linked list, stack, queue) <br>
-     (b) Non-linear: data items are not organized sequentially (e.g., graph, tree) <br>
+     1. Linear: data are arranged in memory in a linear, sequential manner <br>
+         - Static: structure-related memory location is fixed at compile time (e.g., array) <br>
+         - Dynamic: associated memory location changes (e.g., linked list, stack, queue) <br>
+     2. Non-linear: data items are not organized sequentially (e.g., graph, tree) <br>
 
 # **Algorithms**
 - An algorithm is a set of steps to accomplish a task
 - Criteria for a good algorithm:
   1. Correctness
   2. Efficiency
+- Types of algorithms:
+  - Simple recursive
+  - Divide and conquer
+  - Dynamic programming
+  - Greedy
+  - Brute force
+  - Randomized
 
 
