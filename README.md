@@ -3,3 +3,8 @@
 
 # **Algorithms**
 - An algorithm is a set of steps to accomplish a task
+- Criteria for a good algorithm:
+  1. Correctness
+  2. Efficiency
+
+
