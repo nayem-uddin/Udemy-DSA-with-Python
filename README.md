@@ -20,11 +20,11 @@
   1. Correctness
   2. Efficiency
 - Types of algorithms:
-  - Simple recursive
-  - Divide and conquer
-  - Dynamic programming
-  - Greedy
-  - Brute force
-  - Randomized
+  - `Simple recursive` uses recursion (calling a function within the same function)
+  - `Divide and conquer` divides the problems into smaller sub-problems and solve them
+  - `Dynamic programming` uses memoization (using previous results to find the best result)
+  - `Greedy` takes the best without worrying about the future, with the hope of finding the global optimum solution by choosing the local optimum solution at each step
+  - `Brute force` tries all possibilities until the best solution is found
+  - `Randomized` uses a random number at least once during the computation to make a decision
 
 
